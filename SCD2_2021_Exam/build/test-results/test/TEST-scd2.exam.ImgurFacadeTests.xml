@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="scd2.exam.ImgurFacadeTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-06-19T02:41:01" hostname="MacBook-Pro.modem" time="0.023">
+  <properties/>
+  <testcase name="registerCorrectDetailsTest" classname="scd2.exam.ImgurFacadeTests" time="0.021"/>
+  <testcase name="uploadImageTest" classname="scd2.exam.ImgurFacadeTests" time="0.001"/>
+  <testcase name="registerIncorrectDetailsTest" classname="scd2.exam.ImgurFacadeTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

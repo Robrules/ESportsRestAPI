@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="scd2.exam.MainFacadeTests" tests="8" skipped="0" failures="0" errors="0" timestamp="2021-06-19T02:41:00" hostname="MacBook-Pro.modem" time="0.749">
+  <properties/>
+  <testcase name="makeQrCodeTest" classname="scd2.exam.MainFacadeTests" time="0.726"/>
+  <testcase name="storeLeaguesTest" classname="scd2.exam.MainFacadeTests" time="0.01"/>
+  <testcase name="registerImgurClientIdTest" classname="scd2.exam.MainFacadeTests" time="0.008"/>
+  <testcase name="getLeaguesTest" classname="scd2.exam.MainFacadeTests" time="0.001"/>
+  <testcase name="uploadImageTest" classname="scd2.exam.MainFacadeTests" time="0.001"/>
+  <testcase name="registerPandaTest" classname="scd2.exam.MainFacadeTests" time="0.001"/>
+  <testcase name="generateReportAsteriskTest" classname="scd2.exam.MainFacadeTests" time="0.0"/>
+  <testcase name="generateReportTest" classname="scd2.exam.MainFacadeTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

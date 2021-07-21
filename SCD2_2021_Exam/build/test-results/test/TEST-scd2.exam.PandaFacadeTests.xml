@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="scd2.exam.PandaFacadeTests" tests="8" skipped="0" failures="0" errors="0" timestamp="2021-06-19T02:41:01" hostname="MacBook-Pro.modem" time="0.221">
+  <properties/>
+  <testcase name="registerCorrectDetailsTest" classname="scd2.exam.PandaFacadeTests" time="0.187"/>
+  <testcase name="storeLeaguesTest" classname="scd2.exam.PandaFacadeTests" time="0.017"/>
+  <testcase name="getLeaguesTest" classname="scd2.exam.PandaFacadeTests" time="0.003"/>
+  <testcase name="registerIncorrectDetailsTest" classname="scd2.exam.PandaFacadeTests" time="0.003"/>
+  <testcase name="isModifiedAfterTest1" classname="scd2.exam.PandaFacadeTests" time="0.002"/>
+  <testcase name="isModifiedAfterTest2" classname="scd2.exam.PandaFacadeTests" time="0.003"/>
+  <testcase name="isModifiedAfterTest3" classname="scd2.exam.PandaFacadeTests" time="0.002"/>
+  <testcase name="storeLeaguesTest2" classname="scd2.exam.PandaFacadeTests" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
